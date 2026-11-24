@@ -1,7 +1,5 @@
 # CS2413 - Database Security Project
 
-University of New Brunswick | Information Security | Fall 2026
-
 We made a small Python and SQLite project to compare an insecure database system with a more secure version. All data is fake and the attack example runs locally.
 
 ## What we tested
@@ -54,5 +52,3 @@ The five team members are Zaied, Abdularhaman, Zeid, Marwan, and Logan.
 ## Results and limitations
 
 The tests cover a small local SQLite database, not a real website or production server. The unsafe query and MD5 function exist only for demonstrating the "before" problems. PBKDF2 uses 600,000 iterations in the demo; unit tests temporarily lower this number to run faster. The code does not include full real-world account management, network security, or deployment.
-
-Add your captured screenshots and final report link when ready.
