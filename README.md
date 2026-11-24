@@ -45,11 +45,11 @@ These are **test accounts only**, not real accounts or passwords.
 ## Team contributions
 
 The five team members are Zaied, Abdularhaman, Zeid, Marwan, and Logan.
-Marwan - SQL injection and secure queries
-Zaied - Database setup and integration
-Abdularham - Password security and authentication
-Zeid - Role-based access control
-Logan - Audit logging and testing
+| Marwan - SQL injection and secure queries |
+| Zaied - Database setup and integration |
+| Abdularham - Password security and authentication |
+| Zeid - Role-based access control |
+| Logan - Audit logging and testing |
 
 ## Results and limitations
 
