@@ -45,9 +45,11 @@ These are **test accounts only**, not real accounts or passwords.
 ## Team contributions
 
 The five team members are Zaied, Abdularhaman, Zeid, Marwan, and Logan.
-Fill in each person's **actual work** (coding, testing, screenshots, documentation, review)
-before submission. Test filenames describe features, not authors.
-One computer can push the completed project; a single Git author does not prove who made each contribution.
+Marwan - SQL injection and secure queries
+Zaied - Database setup and integration
+Abdularham - Password security and authentication
+Zeid - Role-based access control
+Logan - Audit logging and testing
 
 ## Results and limitations
 
